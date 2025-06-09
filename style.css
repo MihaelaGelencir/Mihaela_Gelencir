@@ -16,7 +16,6 @@ img {
   border-radius: 8px;
 }
 
-/* Navigacija */
 nav ul {
   list-style: none;
   padding: 0;
@@ -82,7 +81,7 @@ nav a {
   margin-right: auto;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(4px);
-  text-align: center; /* centriranje teksta u bloku */
+  text-align: center;
 }
 
 #lista h3 {
@@ -95,7 +94,7 @@ nav a {
   padding-left: 0;
   list-style-position: inside;
   display: inline-block;
-  text-align: left; /* da stavke liste budu lijevo unutar inline bloka */
+  text-align: left;
 }
 
 #lista li {
